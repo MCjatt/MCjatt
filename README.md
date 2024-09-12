@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **4th year blockchain project**
 
-- 🌱 I’m currently learning **Date warehousing and data mining**
+- 🌱 I’m currently learning **Data warehousing and data mining, Cryptography and data structure & algorithm**
 
 - 📫 How to reach me **Abhijitmahal2@gmail.com**
 
