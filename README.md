@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mcjatt&label=Profile%20views&color=0e75b6&style=flat" alt="mcjatt" /> </p>
 
-- 🔭 I’m currently working on **4th year blockchain project**
+- 🔭 I’m currently working on **4th year blockchain-backed supply chain web application**
 
 - 🌱 I’m currently learning **Data warehousing and data mining, Cryptography and data structure & algorithm**
 
